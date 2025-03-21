@@ -213,14 +213,14 @@ width: 65%;
 font-size: 19px;
 margin: 4vh;
     }
-body::-webkit-scrollbar, .DescFinp::-webkit-scrollbar{
+body::-webkit-scrollbar, .DescFinp::-webkit-scrollbar,.BoxNoteP2GG::-webkit-scrollbar,.BoxNoteP2::-webkit-scrollbar{
     width: 12px;
     background-color: #151515;}
     .BoxNoteP2GGG::-webkit-scrollbar{
         width: 12px;
         background-color: white;}
     
-body::-webkit-scrollbar-thumb, .BoxNoteP2GGG::-webkit-scrollbar-thumb, .DescFinp::-webkit-scrollbar-thumb{
+body::-webkit-scrollbar-thumb, .BoxNoteP2GGG::-webkit-scrollbar-thumb, .DescFinp::-webkit-scrollbar-thumb,.BoxNoteP2GG::-webkit-scrollbar-thumb,.BoxNoteP2::-webkit-scrollbar-thumb{
     background-color: #c6a972;
     border-radius: 4px;
     height: 20px;
