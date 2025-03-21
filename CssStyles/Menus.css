@@ -1,0 +1,86 @@
+html,body{
+    height: 100%;
+    overflow-x: hidden;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    overflow: hidden;   
+}
+body{
+    overflow-y: scroll;
+    background-color: #151515;
+}
+h1{
+    display: flex;
+    flex-direction: row;
+    align-content: flex-start;
+    width: 100%;
+    height: 15vh;                           
+    background-image: radial-gradient(circle, #ffffff,#ffffff,#ffffff);
+    margin-bottom: 0;
+}
+h1 div a{
+    display: flex;
+    justify-content: center;
+    font-family: Bebas neue;
+    text-decoration: none ;
+    color: #2e5e74;
+    text-shadow: rgb(79, 141, 203);  
+    transition: 0.45s ease; 
+}
+.DivH, .Box1{ 
+    height: 100%;
+    width: 100%;
+    align-items: center; 
+    align-content: center; 
+}
+.DivH{
+    font-size: 40px;
+}
+div a:hover{
+    color: rgb(124, 176, 228);
+    text-shadow: #0B213A;
+}
+a{
+    align-content: 4;
+    padding: 15px,20px,30px,20px;
+}
+.Box1{
+    font-size: 80px;
+}
+hr{
+    margin-top: 0;
+    margin-bottom: 0;
+    background-color: #0B213A;
+    width: 100%;
+    height: 8px;
+    border: none;
+}
+.box-section {
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+}
+
+.Sectorx{
+    display: grid;
+    place-content: center;
+    place-items: center;
+    height: 100%;
+    width: 100%;
+    margin-bottom: 5vhs;
+}
+.Principalh{
+
+    font-family: Bebas Neue;
+    font-size: 20vh;
+    color: #ffffff;
+}
+.tituloP{
+    color:#151515;
+    margin-top: 70px;
+    margin-bottom: 10px;
+    font-size: 40px;
+}
