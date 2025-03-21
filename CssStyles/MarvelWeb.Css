@@ -96,7 +96,7 @@
     margin-bottom: 10vh;
     background-color: #ffffff;
     width: 50vw;
-    height: 95vh;}
+    height: 105vh;}
         .BoxNoteP2GGG{
         margin-right: 9.45vw;
         margin-bottom: 10vh;
@@ -213,10 +213,10 @@ width: 65%;
 font-size: 19px;
 margin: 4vh;
     }
-body::-webkit-scrollbar, .DescFinp::-webkit-scrollbar,.BoxNoteP2GG::-webkit-scrollbar,.BoxNoteP2::-webkit-scrollbar{
+body::-webkit-scrollbar, .DescFinp::-webkit-scrollbar{
     width: 12px;
     background-color: #151515;}
-    .BoxNoteP2GGG::-webkit-scrollbar{
+    .BoxNoteP2GGG::-webkit-scrollbar,.BoxNoteP2GG::-webkit-scrollbar,.BoxNoteP2::-webkit-scrollbar{
         width: 12px;
         background-color: white;}
     
